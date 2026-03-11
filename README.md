@@ -1,4 +1,4 @@
-# Detect and Tag New Version [![test-status](https://github.com/dfreeman/action-detect-and-tag-new-version/workflows/CI/badge.svg)](https://github.com/dfreeman/action-detect-and-tag-new-version/actions?query=workflow%3ACI)
+# Detect and Tag New Version [![test-status](https://github.com/Unity-Billal-mesloub/action-detect-and-tag-new-version/workflows/CI/badge.svg)](https://github.com/Unity-Billal-mesloub/action-detect-and-tag-new-version/actions?query=workflow%3ACI)
 
 This action allows you to detect a new version of your repository based on some change in its contents between commits, creating a git tag if a new version is detected.
 
